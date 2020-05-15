@@ -28,9 +28,7 @@
             ]
         }
     },
-    "repositories": [
-        
-    ],
+    "repositories": [],
     "config": {
         "sort-packages": true
     },
