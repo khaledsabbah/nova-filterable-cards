@@ -1,5 +1,5 @@
 {
-    "name": "beyondcode/nova-filterable-cards",
+    "name": "khaledgamal/nova-filterable-cards",
     "description": "Filterable metric cards for Laravel Nova.",
     "keywords": [
         "laravel",
@@ -29,10 +29,7 @@
         }
     },
     "repositories": [
-        {
-            "type": "composer",
-            "url": "https://nova.laravel.com"
-        }
+        
     ],
     "config": {
         "sort-packages": true
