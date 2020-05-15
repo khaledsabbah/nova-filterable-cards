@@ -1,6 +1,6 @@
 {
     "name": "khaledgamal/nova-filterable-cards",
-    "description": "Filterable metric cards for Laravel Nova.",
+    "description": "Filterable Metric Cards for Laravel Nova.",
     "keywords": [
         "laravel",
         "nova"
